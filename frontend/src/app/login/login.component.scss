@@ -1,0 +1,31 @@
+
+.logo-title {
+  margin-top: 30vh;
+  padding: 20px;
+  text-align: center;
+  color: white;
+}
+.login-form {
+  margin-top: 30vh;
+  text-align: center;
+  padding: 50px;
+}
+.login-form mat-form-field {
+  width: 100%;
+}
+mat-icon {
+  cursor: pointer;
+}
+.login-form button {
+  width: 100%;
+  background: #76cf61;
+  border-radius: 10px;
+}
+
+.login-form img {
+  width: 40%;
+  filter: invert(1);
+}
+.login-page>div {
+  height: 100vh;
+}

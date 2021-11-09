@@ -1,0 +1,40 @@
+.grid-container {
+  margin: 20px;
+}
+
+.dashboard-card {
+  position: absolute;
+  top: 15px;
+  left: 15px;
+  right: 15px;
+  bottom: 15px;
+}
+
+.more-button {
+  position: absolute;
+  top: 5px;
+  right: 10px;
+}
+
+.dashboard-card-content {
+  text-align: center;
+}
+.plant-single-table-header {
+  background: #ececec;
+}
+.plant-single-table-header  h1 {
+  padding: 10px;
+  margin-bottom: 0!important;
+}
+.plant-single-table-header mat-icon {
+  vertical-align: middle;
+  color: blue;
+}
+.plant-single-search-box {
+  padding: 0 20px 20px;
+  text-align: center;
+}
+.plant-single-search-box .item {
+  display: flex;
+  justify-content: space-around;
+}
